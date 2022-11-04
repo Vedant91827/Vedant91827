@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant91827&show_icons=true&locale=en&layout=compact" alt="vedant91827" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant91827&show_icons=true&locale=en" alt="vedant91827" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vedant91827&show_icons=true&locale=en" alt="vedant91827" /></p>
 
 [![@vedant91827's Holopin board](https://holopin.me/vedant91827)](https://holopin.io/@vedant91827)
