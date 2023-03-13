@@ -8,7 +8,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Vedant91827"/>
 </div>
 
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Developer" width="400" align="right">
+<img src="https://camo.githubusercontent.com/e59fa34ea8b13750dab19c22b033491c6b4e45449a9c7b797e6fb4804b8ce313/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f26757365723d566564616e743931383237" alt="Developer" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant91827&label=Profile%20views&color=0e75b6&style=flat" alt="vedant91827" /> </p>
 
